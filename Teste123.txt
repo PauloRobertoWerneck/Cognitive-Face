@@ -1,0 +1,16 @@
+This document describes the scope and the product overview. YCC is a yard and railway terminal management solution that allows the user to plan all yard switching activities, as well as coupling and releasing trains.
+(Created on 10/2/2019.  Last modified 3/19/2020)
+
+3.1	Objective 
+
+The purpose of this document is to specify system functionalities and/or the product to be developed, providing the development team the information required to meet the system requirements.
+(Created on 10/2/2019.  Last modified 3/19/2020)  
+
+3.2	Scope 
+
+The scope of this document is to explain YCC functionalities, and to serve as a reference for the subsequent development process documents.
+(Created on 10/2/2019.  Last modified 3/19/2020)  
+
+3.3	Audience 
+
+It should be available to pre-sales, project management and engineering. It may be made available for customers upon request, for informative purposes only.
